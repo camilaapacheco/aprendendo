@@ -1,9 +1,9 @@
 # aprendendo a usar o git
 
 - Principais comandos do git
--- Git add (adicionar arquivos)
--- Git commit (criar commit) -m (adicionar mensagem do commit)
--- Git push (enviar commit(s) para a branch remota) <nome_da_branch>
--- Git pull (atualizar git local)
+1. Git add (adicionar arquivos)
+2. Git commit (criar commit) -m (adicionar mensagem do commit)
+3. Git push (enviar commit(s) para a branch remota) <nome_da_branch>
+4. Git pull (atualizar git local)
 
 
